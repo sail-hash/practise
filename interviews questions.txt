@@ -1,0 +1,37 @@
+query optimization in sql
+
+second highest row in sql
+
+abstract classes
+
+filters in mvc
+
+architecture of mvc
+
+
+
+finall in c#
+
+
+managed code and unmanaged code
+
+triggers
+
+appsetting.json
+
+abstract class
+
+
+Managed code and unmanaged code
+
+dictionery 
+
+pass value from a.aspx to b.aspx
+
+
+delete and trucate
+
+can we recover iff we truncate
+
+
+joints in c#
